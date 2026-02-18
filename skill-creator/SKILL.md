@@ -286,6 +286,7 @@ Consult these helpful guides based on your skill's needs:
 
 - **Multi-step processes**: See references/workflows.md for sequential workflows and conditional logic
 - **Specific output formats or quality standards**: See references/output-patterns.md for template and example patterns
+- **Quality checklist**: See references/best-practices-checklist.md before finalizing any skill
 
 These files contain established best practices for effective skill design.
 
