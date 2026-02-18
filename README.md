@@ -30,7 +30,7 @@ Agents typically use the **name + description** frontmatter in `SKILL.md` to dec
 | **research** | Research using subagents (APIs, data, debugging, comparisons) |
 | **internal-comms** | Internal comms (3P updates, newsletters, FAQs, etc.) |
 | **skill-creator** | Create and package new skills (init, edit, package) |
-| **vibe-safe*** | Secure API development (RAILGUARD, validation, auth, errors) |
+| **vibe-safe** (+ auth, errors, upload) | Secure API development (RAILGUARD, validation, auth, errors); related skills installed together |
 | **travel-brief** / **travel-packing-list** | Travel prep workflows |
 
 ## Quickstart
@@ -65,9 +65,9 @@ From the repo root:
 
 ```bash
 SKILLS_REPO="${SKILLS_REPO:-$(pwd)}"
-mkdir -p ~/.cursor/skills
+mkdir -p "$HOME/.cursor/skills"
 
-for s in explore-first create-plan execute workflow-orchestration review create-issue research internal-comms explain-code peer-review vibe-safe travel-brief travel-packing-list skill-creator; do
+for s in explore-first create-plan execute workflow-orchestration review create-issue research internal-comms explain-code peer-review vibe-safe vibe-safe-auth vibe-safe-errors vibe-safe-upload travel-brief travel-packing-list skill-creator; do
   # -n: do not dereference, -f: replace, -s: symlink
   ln -sfn "$SKILLS_REPO/$s" "$HOME/.cursor/skills/$s"
 done
