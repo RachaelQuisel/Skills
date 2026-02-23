@@ -50,6 +50,26 @@ Use these SVG files for logo placement:
 
 If asked to "brand" or "apply XRAY styling" to something, always add the logo and restructure to match brand guidelines — don't just find/replace colors.
 
+## Minimal Intervention Principle
+
+**CRITICAL: Do NOT over-design or rebuild from scratch.**
+
+When branding an existing document:
+
+1. **Assess first** — What already exists? What's the minimum change needed?
+2. **Keep existing content** — Don't remove graphics, images, or layouts that work
+3. **Add, don't replace** — Add the logo, fix colors, adjust backgrounds — don't redesign
+4. **Preserve structure** — If the layout is fine, leave it alone
+5. **Ask if unsure** — "Should I keep the existing layout or redesign?"
+
+**Before making changes, ask yourself:**
+- Am I changing more than necessary?
+- Am I removing content the user created?
+- Could I achieve proper branding with fewer changes?
+- Is this enhancement or reconstruction?
+
+**The goal is to make existing work look XRAY-branded, not to replace it.**
+
 ## Application by Document Type
 
 ### PowerPoint / Presentations
