@@ -39,12 +39,27 @@ Use these SVG files for logo placement:
 - Minimum clear space = height of the "X" letterform
 - Navbar max-height: 64px
 
+## What "Properly Branded" Means
+
+**Important:** Proper branding is NOT just updating colors. A properly XRAY-branded deliverable must include:
+
+1. **The XRAY logo** — wordmark or round logo, appropriately placed
+2. **Correct backgrounds** — floralwhite for content, Gray 900 for dark sections
+3. **Brand typography** — Urbanist headings, Figtree body
+4. **Full color palette** — not just swapping a few colors
+
+If asked to "brand" or "apply XRAY styling" to something, always add the logo and restructure to match brand guidelines — don't just find/replace colors.
+
 ## Application by Document Type
 
 ### PowerPoint / Presentations
-- Title slides: Gray 900 bg, white wordmark (bottom-left), white headline
-- Content slides: floralwhite bg, Gray 900 headings, Gray 600 body
-- Fonts: Urbanist (headings), Figtree (body)
+
+**Required elements for proper branding:**
+- Title slide: Gray 900 (`#0E1C2D`) background with white XRAY wordmark (bottom-left)
+- Content slides: `floralwhite` background
+- XRAY logo in header or footer on every slide
+- Urbanist for headings, Figtree for body text
+- Gray 900 headings, Gray 600 body text on light backgrounds
 
 ### Word Documents / PDFs
 - Page background: white or floralwhite
