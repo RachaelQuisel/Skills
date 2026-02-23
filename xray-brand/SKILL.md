@@ -36,8 +36,18 @@ Use these SVG files for logo placement:
 **Logo rules:**
 - Light backgrounds: use fill `#0E1C2D`
 - Dark backgrounds: change fill to `white` or `floralwhite`
-- Minimum clear space = height of the "X" letterform
 - Navbar max-height: 64px
+
+**Logo clear space:**
+- Minimum clear space = height of the "X" letterform on ALL sides
+- This zone must be free of text, images, edges, or other elements
+- Never place logo where it overlaps with existing content
+
+**Logo placement in presentations:**
+- Preferred position: bottom-left corner of content slides
+- Title slides: bottom-left on dark (Gray 900) background, use white logo
+- Content slides: bottom-left on floralwhite background, use dark logo
+- Maintain X-height padding from slide edges
 
 ## What "Properly Branded" Means
 
