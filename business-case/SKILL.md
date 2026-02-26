@@ -34,7 +34,7 @@ Read the transcript and extract (see [references/extraction-guide.md](references
 
 ### Step 2: Structure the Document
 
-Follow the 11-section structure (see [references/document-structure.md](references/document-structure.md)):
+Follow the 10-section structure (see [references/document-structure.md](references/document-structure.md)):
 
 1. Title Page + Disclaimer
 2. Executive Summary
@@ -43,11 +43,10 @@ Follow the 11-section structure (see [references/document-structure.md](referenc
 5. Proposed Solution
 6. Expected Benefits
 7. Scope of Work (phases)
-8. Investment Summary (`[PRICING TBD]`)
-9. Success Criteria
-10. Out of Scope
-11. Optional Add-Ons
-12. Next Steps
+8. Success Criteria
+9. Out of Scope
+10. Optional Add-Ons
+11. Next Steps
 
 ### Step 3: Apply XRAY Branding
 
@@ -93,13 +92,6 @@ Save to user's Desktop with filename: `{Client Name} - Discovery Brief.docx`
 | **Project Goal** | {One sentence describing the goal} |
 | **Estimated Timeline** | [TIMELINE TBD - to be defined after scoping] |
 | **Approach** | {Brief approach description} |
-
-### Investment Summary
-
-| Phase | Est. Investment |
-|-------|-----------------|
-| Phase 1: Scoping & Design | [PRICING TBD] |
-| Phase 2 & 3: Build & Handoff | [PRICING TBD] |
 
 ## Do's and Don'ts
 

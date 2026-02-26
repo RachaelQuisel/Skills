@@ -1,6 +1,6 @@
 # Document Structure
 
-The discovery brief follows an 11-section structure. Each section has a specific purpose and format.
+The discovery brief follows a 10-section structure. Each section has a specific purpose and format.
 
 ---
 
@@ -138,30 +138,7 @@ The discovery brief follows an 11-section structure. Each section has a specific
 
 ---
 
-## Section 8: Investment Summary
-
-**Purpose:** Placeholder for pricing (XRAY fills in later).
-
-**Format:**
-
-Intro sentence, then table:
-
-| Phase | Est. Investment |
-|-------|-----------------|
-| Phase 1: {Name} | [PRICING TBD] |
-| Phase 2 & 3: {Name} | [PRICING TBD] |
-
-### Platform Costs ({Client Name} Responsibility)
-
-| Platform | Notes |
-|----------|-------|
-| {Platform 1} | [Plan level TBD based on requirements] |
-| {Platform 2} | [If needed for specific integrations] |
-| Existing tools | {List} — no changes anticipated |
-
----
-
-## Section 9: Success Criteria
+## Section 8: Success Criteria
 
 **Purpose:** Define what "done" looks like.
 
@@ -176,7 +153,7 @@ Intro sentence, then table:
 
 ---
 
-## Section 10: Out of Scope
+## Section 9: Out of Scope
 
 **Purpose:** Set boundaries early to avoid scope creep.
 
@@ -191,7 +168,7 @@ Intro sentence, then table:
 
 ---
 
-## Section 11: Optional Add-Ons
+## Section 10: Optional Add-Ons
 
 **Purpose:** Plant seeds for future work.
 
@@ -206,7 +183,7 @@ Intro sentence, then table:
 
 ---
 
-## Section 12: Next Steps
+## Section 11: Next Steps
 
 **Purpose:** Clear call to action.
 
